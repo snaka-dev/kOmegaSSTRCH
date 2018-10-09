@@ -1,6 +1,6 @@
 # kOmegaSSTRCH
 
-RAS turbulence model for OpenFOAM.
+RAS turbulence model for OpenFOAM v1706 and v1612.
 
 Menter SST Two-Equation Model with Hellsten's Simplified Rotation/Curvature Correction (SST-RC-Hellsten) 
 
